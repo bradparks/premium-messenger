@@ -99,7 +99,7 @@ SETTER('websocket', 'send', OBJECT);
 
 ## HTML Formatting
 
-`+v2.0.0`. Administrators have disabled `xss` protection, s each admin can inject a raw HTML into the markdown directly, example:
+`+v2.0.0`. Administrators have disabled `xss` protection, so each admin can inject a raw HTML into the markdown directly, example:
 
 ```markdown
 Only administrators can inject HTML directly via:
